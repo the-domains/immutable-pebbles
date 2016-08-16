@@ -1,0 +1,14 @@
+layout_spectrum: 0.2184028346091509
+typography_spectrum: 0.7616054366808385
+color:
+  brandStrength: 0.6482175721321255
+  lightness: 0.41090394579805434
+  saturation: 0.7762145639862865
+  rhythmicContrast: 0.987162672681734
+  brandColors:
+    - '#FFFFFF'
+    - '#070709'
+    - '#A77711'
+    - '#343436'
+    - '#C5A93B'
+name: immutable pebbles
